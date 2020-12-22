@@ -1,7 +1,8 @@
 # ASLclassifier
-### A convolutional neural network which classifies 56x56 pixel images of American Sign Language letters.
-*Built by Spencer Ball
-*November 2020
+*Built by Spencer Ball, November 2020
+
+## What is it
+A convolutional neural network which classifies 56x56 pixel images of American Sign Language letters.
 
 ## Results
 88.1% Validation Accuracy achieved. For confusion matrix and accuracy/loss plots see output at bottom of the notebook file.
