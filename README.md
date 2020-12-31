@@ -1,7 +1,7 @@
 # ASLclassifier
 *Built by Spencer Ball, November 2020
 
-## What it is
+## What is it?
 A convolutional neural network which classifies 56x56 pixel images of American Sign Language letters.
 
 ## Results
