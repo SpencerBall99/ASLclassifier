@@ -1,5 +1,5 @@
 # ASLclassifier
-*Built by Spencer Ball, November 2020
+*Written by Spencer Ball, November 2020
 
 ## What is it?
 A convolutional neural network which classifies 56x56 pixel images of American Sign Language letters into their English letter equivalents.
