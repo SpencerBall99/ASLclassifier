@@ -5,7 +5,7 @@
 A convolutional neural network which classifies 56x56 pixel images of American Sign Language letters into their English letter equivalents.
 
 ## Results
-88.1% Validation Accuracy achieved. For confusion matrix and accuracy/loss plots see output at bottom of the notebook file.
+91.2% Validation Accuracy achieved. For confusion matrix and accuracy/loss plots see output at bottom of the notebook file.
 
 ## What's in ASLclassifier.ipynb?
 Image normalization, input dataset structuring (torch DataLoader creation), CNN model definition and instantiation, full training loop, and model performance visualization.
